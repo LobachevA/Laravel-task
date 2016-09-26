@@ -1,0 +1,5 @@
+First of all you need to register/login using standart Laravel form.
+Start page have multiple choise for words and algorithms.
+Button "Send" will show us page with independently displayed words and their hashes.
+Button "Save" will save new hashes and redirect on page "/home" where we can see all saved hashes.
+Page "/home" show all saved hashe of registered user.
